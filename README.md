@@ -1,4 +1,4 @@
 # Electrical Drawings
 See `Wiki` for:
-* AutoCAD tips
+* AutoCAD tips & commands
 * Electrical symbol library
